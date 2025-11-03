@@ -46,8 +46,8 @@ It highlights key insights into airline load factors, passenger distribution, fl
 ## 🖼️ Dashboard Previews  
 
 ### 🟡 Excel Dashboard
-![Excel Dashboard](New%folder/picture1.png)
-![Excel Dashboard](New%folder/picture2.png)
+![Excel Dashboard](New%folder/Picture1.png)
+![Excel Dashboard](New%folder/Picture2.png)
 
 ### 🟢 Power BI Dashboard
 ![Power BI Dashboard 1](pictures/picture3.png)
