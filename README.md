@@ -78,3 +78,5 @@ It demonstrates a strong command over business intelligence tools and the abilit
 ---
 
 ## 📁 Project Structure
+
+cleaned excel file (https://docs.google.com/spreadsheets/d/1Qnl6F_gKspDo7Cq5uV52uvm_HyPeNDDn/edit?usp=sharing&ouid=115603218058186574469&rtpof=true&sd=true)
